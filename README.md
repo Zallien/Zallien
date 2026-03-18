@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm JB  
+I'm Jullie Bert, an Aspiring Software Engineer Based on Philippines  
 
-<!--
-**Zallien/Zallien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Fresh IT Graduate | 💻 Aspiring Software Developer  
+🔧 Skills: Web Development, Software Development, Game Development  
+🌱 Currently learning and Upskilling  
+🌍 Based in Valenzuela City, Philippines 
 
-Here are some ideas to get you started:
+## 🛠 Tools & Technologies
+🌐 Web: React, HTML, CSS, JavaScript, PHP |  
+💻 Software: C#, VB.Net, MAUI |  
+🎮 Game: Godot, GDevelop, Roblox Studio |  
+⚙️ Version Control: Git & GitHub |
+🌐 Frameworks: Bootstrap, .Net Framework, Entity Frmaework |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👤 About Me
+📚 I love reading Japanese Manga, Korean Manwha, and Chinese Manhua  
+😌 Introvert, but I enjoy attention in the right moments  
+💻 Passionate about technology — especially computers and software  
