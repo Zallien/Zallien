@@ -1,14 +1,14 @@
 # 👋 Hi, I'm JB  
 I'm Jullie Bert, an Aspiring Software Engineer Based on Philippines  
 
-🎓 Fresh IT Graduate | 💻 Aspiring Software Developer  
+🎓 IT Graduate | 💻 Software Engineer | 🎮 Indie Game Developer  
 🔧 Skills: Web Development, Software Development, Game Development  
 🌱 Currently learning and Upskilling  
 🌍 Based in Valenzuela City, Philippines 
 
 ## 🛠 Tools & Technologies
-🌐 Web: React, HTML, CSS, JavaScript, PHP |  
-💻 Software: C#, VB.Net, MAUI |  
+🌐 Web: React, HTML, CSS, JavaScript, PHP, Angular |  
+💻 Software: C#, VB.Net, MAUI |
 🎮 Game: Godot, GDevelop, Roblox Studio |  
 ⚙️ Version Control: Git & GitHub |  
 🌐 Frameworks: Bootstrap, .Net Framework, Entity Frmaework |
